@@ -1,0 +1,2 @@
+antenna nrf52832_xxaa
+nrf52832_xxaa
