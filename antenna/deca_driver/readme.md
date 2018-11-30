@@ -1,0 +1,10 @@
+port
+deca_device.c
+deca_device_api.h
+deca_param_types.h
+deca_params_init.c
+deca_range_tables.c
+deca_regs.h
+deca_types.h
+deca_version.h
+disclaimer.txt
